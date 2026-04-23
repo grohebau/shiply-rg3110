@@ -1,6 +1,6 @@
 {
   "SE428152755DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Quintinsstraße 6, 55131 Mainz, Deutschland",
     "receiver": "Wilhelm Greber, Achrainweg 14, 6858 Schwarzach, Österreich",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "21.04.2026",
-    "deliveryDate": "24.04.2026",
+    "deliveryDate": "24.04.2026, 16:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Am Weiher 16",
+      "postal_code": "65451",
+      "city": "Kelsterbach",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
