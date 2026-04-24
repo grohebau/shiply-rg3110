@@ -26,11 +26,11 @@
       }
     ],
     "orderDate": "21.04.2026",
-    "deliveryDate": "24.04.2026, 16:30 Uhr",
+    "deliveryDate": "Die Sendung ist an der Grenze eingetroffen. Die Lieferung ist für Montag, den 27.04.2026, terminiert.",
     "pickup": {
-      "street": "Am Weiher 16",
-      "postal_code": "65451",
-      "city": "Kelsterbach",
+      "street": "Bregenzer Straße",
+      "postal_code": "88131",
+      "city": "Lindau",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
